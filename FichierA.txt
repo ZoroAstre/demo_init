@@ -1,1 +1,6 @@
-1- Bonjour Corantin, Julie et Benjamin suprise haha
+<<<<<<< HEAD
+1- Bonjour Corantin, Julie et Benjamin suprise haha MErde!!!!!
+=======
+1- Bonjour Corantin, Julie et Benjamin
+2- Harmonition
+>>>>>>> 8a0e815c0e635acc1aef7a76f28ca012163db92d
